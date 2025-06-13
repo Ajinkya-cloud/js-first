@@ -20,7 +20,3 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // "" => false --> if we enter empty strings the value is false
 // "ajinkya" => true --> if we enter some value in string output is true
 
-let someNumber = 33
-
-let stringNumber = string(someNumber)
-console.log(stringNumber);
